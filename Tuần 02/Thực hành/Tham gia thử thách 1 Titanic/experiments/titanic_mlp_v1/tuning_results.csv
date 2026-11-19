@@ -1,0 +1,4 @@
+name,hidden1,hidden2,learning_rate,batch_size,epochs,accuracy
+small,16,8,0.001,32,100,0.8246268656716418
+medium,32,16,0.001,32,100,0.8283582089552238
+large,64,32,0.001,32,100,0.8246268656716418
